@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    background: #6d7d70;
+}
+
+.inicio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
