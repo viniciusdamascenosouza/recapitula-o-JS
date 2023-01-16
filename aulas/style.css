@@ -5,9 +5,18 @@
     background: #6d7d70;
 }
 
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
 .inicio {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+
+    margin: 2em 0;
 }
